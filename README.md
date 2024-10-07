@@ -18,6 +18,6 @@
     <img src="https://skillicons.dev/icons?i=rust,c,cpp,cs,js,ts,py,java,kotlin,elixir,go,arduino,html,github&perline=7" />
     <br /><br />
     <h3>📊 GitHub Stats</h3>
-    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irj&theme=tokyonight" /></a>
+    <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j5pr&theme=tokyonight" /></a>
   </samp>
 </div>
